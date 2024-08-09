@@ -20,3 +20,4 @@ def ws_message(ws, message):
     
 ws = websocket.WebSocketApp('wss://ws.kraken.com/', on_open=ws_open, on_message=ws_message)
 ws.run_forever()
+t
