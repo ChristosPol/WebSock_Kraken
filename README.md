@@ -1,1 +1,1 @@
-![](aux/img/mt.gif)
+![](aux/img/Untitled.gif)
